@@ -9,5 +9,5 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Sitemap: http://dajipai.cc/sitemap.xml
-Sitemap: http://dajipai.cc/baidusitemap.xml
+Sitemap: https://blog.liph.top/sitemap.xml
+Sitemap: https://blog.liph.top/baidusitemap.xml
