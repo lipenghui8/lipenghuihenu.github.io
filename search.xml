@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>编译原理小结</title>
+      <link href="/posts/52358/"/>
+      <url>/posts/52358/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="编译原理复习"><a href="#编译原理复习" class="headerlink" title="编译原理复习"></a>编译原理复习</h1><p><img src= "/img/loading.gif" data-src="%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86.assets/image-20220803112423553.png" alt="image-20220803112423553"></p><h2 id="消除左递归"><a href="#消除左递归" class="headerlink" title="消除左递归"></a>消除左递归</h2><p><img src= "/img/loading.gif" data-src="%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86.assets/image-20220814195428928.png" alt="image-20220814195428928"></p><h2 id="求FIRST和FOLLOW集"><a href="#求FIRST和FOLLOW集" class="headerlink" title="求FIRST和FOLLOW集"></a>求FIRST和FOLLOW集</h2><p><img src= "/img/loading.gif" data-src="%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86.assets/image-20220814174335211.png" alt="image-20220814174335211"></p><h2 id="判断LL-1-文法："><a href="#判断LL-1-文法：" class="headerlink" title="判断LL(1)文法："></a>判断LL(1)文法：</h2><p><img src= "/img/loading.gif" data-src="%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86.assets/image-20220814175525258.png" alt="image-20220814175525258"></p><h2 id="LL-1-分析表"><a href="#LL-1-分析表" class="headerlink" title="LL(1)分析表"></a>LL(1)分析表</h2><p><img src= "/img/loading.gif" data-src="%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86.assets/image-20220814194505706.png" alt="image-20220814194505706"></p><h2 id="LR-0-项目与LR-0-分析表"><a href="#LR-0-项目与LR-0-分析表" class="headerlink" title="LR(0)项目与LR(0)分析表"></a>LR(0)项目与LR(0)分析表</h2><p><img src= "/img/loading.gif" data-src="%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86.assets/image-20220814201807290.png" alt="image-20220814201807290"></p><h2 id="尤其注意其中的rn"><a href="#尤其注意其中的rn" class="headerlink" title="尤其注意其中的rn"></a>尤其注意其中的rn</h2><p><img src= "/img/loading.gif" data-src="%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86.assets/image-20220815105400007.png" alt="image-20220815105400007"></p><h2 id="SLR-1-文法"><a href="#SLR-1-文法" class="headerlink" title="SLR(1)文法"></a>SLR(1)文法</h2><p><img src= "/img/loading.gif" data-src="%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86.assets/image-20220815111839733.png" alt="image-20220815111839733"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>顺序栈的基本操作</title>
       <link href="/posts/60585/"/>
       <url>/posts/60585/</url>
